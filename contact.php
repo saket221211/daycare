@@ -9,7 +9,7 @@
       Bhantinda<br>
       Houston, TX 77079</p>
     <h3 class="text-info">T: (281) 589-2626</h3>
-    <p> Hours of operation: Monday-Friday (6:30am-6:30pm)<br>
+    <p> Hours of operation: Monday-Saturday (6:30am-6:30pm)<br>
     </p>
     <h4 class="text-success">Email: saket@gmail.com</h4>
     <div class="row">
